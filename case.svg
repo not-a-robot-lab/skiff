@@ -6,8 +6,8 @@
             <circle cx="130" cy="9.5"  r="1.55"/>
             <circle cx="7.5" cy="48.5" r="1.55"/>
             <circle cx="130" cy="48.5" r="1.55"/>
-            <circle id="vin" cx="27" cy="40" r="5.5"/>
-            <rect id="switch" width="9" height="13.2" x="22" y="20"/>
+            <circle id="vin" cx="27" cy="45" r="5.5"/>
+            <rect id="switch" width="9" height="13.2" x="22" y="18"/>
         </g>
         <g id="right" transform="translate(372,63)">
             <path d="M0 2 L4.5 2 L4.5 0 L133 0 L133 2 L137.5 2 L137.5 58 L0 58 Z"/>
@@ -15,7 +15,7 @@
             <circle cx="130" cy="9.5"  r="1.55"/>
             <circle cx="7.5" cy="48.5" r="1.55"/>
             <circle cx="130" cy="48.5" r="1.55"/>
-            <circle id="vout" cx="110" cy="50" r="5.5"/>
+            <circle id="vout" cx="110" cy="45" r="5.5"/>
         </g>
         <g id="front" transform="translate(2,4)">  
             <rect x="0" y="0" width="366" height="56"/>
