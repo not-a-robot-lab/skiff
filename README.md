@@ -1,5 +1,5 @@
 # skiff
-Small case based on Makerbeam XL profiles.
+Small Eurorack case based on Makerbeam XL profiles.
 
 The case is not compatible with all Eurorack modules. But it is compatible with my own modules where the circuits are max 102mm high.
 I use the Makerbeam XL profiles because they are cheap, 14 euro (excl. shipping) for 4 beams of 360mm which are needed for this case, and it takes regular M3 hex nuts as sliding nuts. 
